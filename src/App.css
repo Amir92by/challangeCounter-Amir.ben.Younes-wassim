@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  border: 4px solid red;
+  height: 1500px;
+  
+}
+
+.container{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ width: 300px;
+ border-radius: 70px 20px;
+margin-top: 200px;
+box-shadow: -30px 20px 20px rgb(0, 0, 0);
+}
+
+Button{
+  margin: 20px;
+  background-color: #0E2A35  !important;
+  border:1px solid blanchedalmond;
+  
+}
+
+h3{
+  color:white;
+}
